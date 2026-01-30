@@ -9,4 +9,5 @@ def capitalize_words(text):
     return " ".join(capitalized)
 
 sentence = "hello world from python"
+
 print(capitalize_words(sentence))
